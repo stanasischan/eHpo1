@@ -185,9 +185,9 @@ DOMAIN,tunion-api.m.taobao.com
 DOMAIN,unitacs.m.taobao.com
 DOMAIN,w.m.taobao.com
 # >> Umeng
-#DOMAIN-SUFFIX,umeng.com
-#DOMAIN-SUFFIX,umengcloud.com
-#DOMAIN-SUFFIX,umsns.com
+DOMAIN-SUFFIX,umeng.com
+DOMAIN-SUFFIX,umengcloud.com
+DOMAIN-SUFFIX,umsns.com
 # > Appsflyer
 DOMAIN-SUFFIX,appsflyer.com
 # > Baidu
