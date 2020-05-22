@@ -1,5 +1,6 @@
 # Region.list
 # > LAN
+LAN
 DOMAIN-SUFFIX,local
 DOMAIN,localhost
 IP-CIDR,0.0.0.0/8,no-resolve
@@ -17,5 +18,4 @@ IP-CIDR,240.0.0.0/4,no-resolve
 # > China
 DOMAIN-SUFFIX,cn
 DOMAIN-SUFFIX,xn--fiqs8s
-LAN
 GEOIP,CN
