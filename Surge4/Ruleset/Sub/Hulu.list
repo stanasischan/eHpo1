@@ -2,4 +2,6 @@
 DOMAIN-SUFFIX,hulu.com
 DOMAIN-SUFFIX,huluim.com
 DOMAIN-SUFFIX,hulustream.com
+DOMAIN-KEYWORD,hulu
 DOMAIN,assetshuluimcom-a.akamaihd.net
+USER-AGENT,*hulu*
