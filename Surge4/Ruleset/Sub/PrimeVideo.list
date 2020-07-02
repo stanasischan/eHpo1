@@ -4,6 +4,8 @@ USER-AGENT,Prime%20Video*
 DOMAIN-SUFFIX,media-amazon.com
 DOMAIN-SUFFIX,atv-ext-eu.amazon.com
 DOMAIN-SUFFIX,device-metrics-us.amazon.com
+DOMAIN-SUFFIX,unagi-eu.amazon.com
+DOMAIN-SUFFIX,det-ta-g7g.amazon.com
 DOMAIN-SUFFIX,aiv-cdn.net
 DOMAIN-SUFFIX,aiv-delivery.net
 DOMAIN-SUFFIX,primevideo.com
