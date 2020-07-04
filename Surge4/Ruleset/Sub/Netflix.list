@@ -921,6 +921,8 @@ IP-CIDR,198.38.112.152/32,no-resolve
 IP-CIDR,198.38.112.157/32,no-resolve
 IP-CIDR,198.38.112.190/32,no-resolve
 IP-CIDR,198.38.113.181/32,no-resolve
+IP-CIDR,198.38.113.182/32,no-resolve
+IP-CIDR,198.38.113.183/32,no-resolve
 IP-CIDR,198.38.113.184/32,no-resolve
 
 # > Fast
