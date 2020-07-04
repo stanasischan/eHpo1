@@ -919,11 +919,13 @@ IP-CIDR,96.4.63.99/32,no-resolve
 IP-CIDR,198.38.112.131/32,no-resolve
 IP-CIDR,198.38.112.152/32,no-resolve
 IP-CIDR,198.38.112.157/32,no-resolve
+IP-CIDR,198.38.112.161/32,no-resolve
 IP-CIDR,198.38.112.190/32,no-resolve
 IP-CIDR,198.38.113.181/32,no-resolve
 IP-CIDR,198.38.113.182/32,no-resolve
 IP-CIDR,198.38.113.183/32,no-resolve
 IP-CIDR,198.38.113.184/32,no-resolve
+IP-CIDR,45.57.59.244/32,no-resolve
 
 # > Fast
 DOMAIN-SUFFIX,fast.com
