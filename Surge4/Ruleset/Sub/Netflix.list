@@ -62,6 +62,11 @@ IP-CIDR,198.38.112.196/32,no-resolve
 IP-CIDR,198.38.112.197/32,no-resolve
 IP-CIDR,198.38.112.198/32,no-resolve
 
+
+IP-CIDR,198.38.113.130/32,no-resolve
+IP-CIDR,198.38.113.131/32,no-resolve
+IP-CIDR,198.38.113.132/32,no-resolve
+IP-CIDR,198.38.113.133/32,no-resolve
 IP-CIDR,198.38.113.134/32,no-resolve
 IP-CIDR,198.38.113.135/32,no-resolve
 IP-CIDR,198.38.113.136/32,no-resolve
