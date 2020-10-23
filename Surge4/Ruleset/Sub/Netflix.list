@@ -8,6 +8,8 @@ DOMAIN-SUFFIX,nflximg.com
 DOMAIN-SUFFIX,nflximg.net
 DOMAIN-SUFFIX,nflxso.net
 DOMAIN-SUFFIX,nflxvideo.net
+DOMAIN-SUFFIX,dualstack.apiproxy-http1-873404929.us-west-2.elb.amazonaws.com
+
 
 IP-CIDR,198.38.112.130/32,no-resolve
 IP-CIDR,198.38.112.131/32,no-resolve
