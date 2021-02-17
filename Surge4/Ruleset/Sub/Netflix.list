@@ -13,6 +13,7 @@ DOMAIN-SUFFIX,dualstack.apiproxy-device-prod-nlb-4-97fa936b307500cb.elb.us-west-
 DOMAIN-SUFFIX,dualstack.apiproxy-device-prod-nlb-2-9a34ae4608b5939d.elb.us-west-2.amazonaws.com
 DOMAIN-SUFFIX,dualstack.ichnaea-web-1229681634.us-west-2.elb.amazonaws.com
 DOMAIN-SUFFIX,dualstack.apiproxy-device-prod-nlb-3-a653f8a785200e05.elb.us-west-2.amazonaws.com
+DOMAIN-SUFFIX,dualstack.ichnaea-web-1229681634.us-west-2.elb.amazonaws.com
 
 
 IP-CIDR,198.38.112.130/32,no-resolve
