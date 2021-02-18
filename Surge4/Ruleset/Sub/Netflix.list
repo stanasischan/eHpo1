@@ -29,7 +29,6 @@ DOMAIN-SUFFIX,dualstack.apiproxy-device-prod-nlb-1-54e80724f8c6ba2d.elb.us-west-
 DOMAIN-SUFFIX,dualstack.ichnaea-web-121909266.us-east-1.elb.amazonaws.com
 DOMAIN-KEYWORD,dualstack.apiproxy-device-prod-nlb-
 DOMAIN-KEYWORD,dualstack.ichnaea-web-
-DOMAIN-SUFFIX,akamaiedge.net
 
 IP-CIDR,23.246.0.0/18,no-resolve
 IP-CIDR,37.77.184.0/21,no-resolve
