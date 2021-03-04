@@ -41,7 +41,8 @@ DOMAIN-SUFFIX,dca-ll-voddazn-dznvodjp.s.llnwi.net
 DOMAIN-SUFFIX,dcb-lldach-voddazn-dznvoddach.s.llnwi.net
 DOMAIN-SUFFIX,widevine.entitlement.ap.theplatform.com
 USER-AGENT,DAZN*
-DOMAIN,d151l6v8er5bdm.cloudfront.net
+DOMAIN-SUFFIX,d151l6v8er5bdm.cloudfront.net
+DOMAIN-SUFFIX,dc1live21715dazn.akamaized.net
 DOMAIN-SUFFIX,dazn.com
 DOMAIN-SUFFIX,dazn-api.com
 DOMAIN-SUFFIX,indazn.com
