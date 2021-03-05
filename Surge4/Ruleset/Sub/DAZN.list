@@ -40,8 +40,10 @@ DOMAIN-SUFFIX,dca-ll-livedazn-dznlivejp.s.llnwi.net
 DOMAIN-SUFFIX,dca-ll-voddazn-dznvodjp.s.llnwi.net
 DOMAIN-SUFFIX,dcb-lldach-voddazn-dznvoddach.s.llnwi.net
 DOMAIN-SUFFIX,dca-livehls-perform.secure.footprint.net
+DOMAIN-SUFFIX,dcb-livehls-perform.secure.footprint.net
 DOMAIN-SUFFIX,entitlement.ap.theplatform.com
 DOMAIN-SUFFIX,entitlement.eu.theplatform.com
+DOMAIN-SUFFIX,entitlement.us.theplatform.com
 USER-AGENT,DAZN*
 DOMAIN-SUFFIX,d151l6v8er5bdm.cloudfront.net
 DOMAIN-SUFFIX,dc1live21715dazn.akamaized.net
