@@ -44,6 +44,7 @@ DOMAIN-SUFFIX,dcb-livehls-perform.secure.footprint.net
 DOMAIN-SUFFIX,entitlement.ap.theplatform.com
 DOMAIN-SUFFIX,entitlement.eu.theplatform.com
 DOMAIN-SUFFIX,entitlement.us.theplatform.com
+DOMAIN-SUFFIX,entitlement.sea.ap.theplatform.com
 USER-AGENT,DAZN*
 DOMAIN-SUFFIX,d151l6v8er5bdm.cloudfront.net
 DOMAIN-SUFFIX,dc1live21715dazn.akamaized.net
